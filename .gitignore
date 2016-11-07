@@ -1,0 +1,10 @@
+﻿#编译目录与IDE配置文件
+/.vscode
+/node_modules
+/public/node_modules
+/public/dist
+/public/src/javascript
+/logs/*.log
+/logs/*.log.*
+/yarn.lock
+
